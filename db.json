@@ -1,0 +1,95 @@
+{
+  "users": [
+    {
+      "name": "Frankie Keeling",
+      "id": 7
+    },
+    {
+      "name": "Mr. Jeanette Koepp",
+      "id": 8
+    },
+    {
+      "name": "Miss Guadalupe Skiles",
+      "id": 15
+    }
+  ],
+  "albums": [
+    {
+      "userId": 8,
+      "title": "Gorgeous Bronze Table",
+      "id": 85
+    },
+    {
+      "userId": 8,
+      "title": "Refined Plastic Ball",
+      "id": 86
+    },
+    {
+      "userId": 15,
+      "title": "Fantastic Rubber Hat",
+      "id": 91
+    },
+    {
+      "userId": 15,
+      "title": "Handmade Wooden Soap",
+      "id": 97
+    },
+    {
+      "userId": 7,
+      "title": "Handmade Wooden Computer",
+      "id": 101
+    },
+    {
+      "userId": 7,
+      "title": "Rustic Plastic Hat",
+      "id": 102
+    },
+    {
+      "userId": 7,
+      "title": "Refined Rubber Bike",
+      "id": 104
+    },
+    {
+      "userId": 7,
+      "title": "Oriental Bronze Pizza",
+      "id": 105
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 101,
+      "url": "https://loremflickr.com/150/150/abstract?lock=66923",
+      "id": 1
+    },
+    {
+      "albumId": 101,
+      "url": "https://loremflickr.com/150/150/abstract?lock=3482",
+      "id": 5
+    },
+    {
+      "albumId": 101,
+      "url": "https://loremflickr.com/150/150/abstract?lock=86866",
+      "id": 6
+    },
+    {
+      "albumId": 101,
+      "url": "https://loremflickr.com/150/150/abstract?lock=72842",
+      "id": 7
+    },
+    {
+      "albumId": 104,
+      "url": "https://loremflickr.com/150/150/abstract?lock=60504",
+      "id": 8
+    },
+    {
+      "albumId": 104,
+      "url": "https://loremflickr.com/150/150/abstract?lock=10445",
+      "id": 9
+    },
+    {
+      "albumId": 91,
+      "url": "https://loremflickr.com/150/150/abstract?lock=78872",
+      "id": 10
+    }
+  ]
+}
